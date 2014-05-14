@@ -19,6 +19,7 @@ Run
 Download civicrm-x.y.z-drupal.tar.gz and civicrm-x.y.z-l10n.tar.gz.
 
 python civicrm_tarl10n.py \
+
        -i civicrm-x.y.z-drupal.tar.gz \
 
        -l civicrm-x.y.z-l10n.tar.gz   \
